@@ -27,7 +27,5 @@ public class primeTester {
 			}
 		}
 		return prime;
-		
-		
 	}
 }
